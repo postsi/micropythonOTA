@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print("Fifth version")
+    print("Sixth version")
